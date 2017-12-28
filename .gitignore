@@ -1,6 +1,2 @@
-*.targets
-*.cache
-*.props
-*.dll
-*.pdb
 obj
+bin
