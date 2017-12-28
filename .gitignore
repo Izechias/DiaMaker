@@ -3,4 +3,4 @@
 *.props
 *.dll
 *.pdb
-obj/debug
+obj
