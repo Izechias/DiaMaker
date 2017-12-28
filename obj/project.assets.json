@@ -1099,11 +1099,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workspace\\Tools\\DiaMaker\\DiaMaker.csproj",
+      "projectUniqueName": "c:\\workspace\\Tools\\DiaMaker\\DiaMaker.csproj",
       "projectName": "DiaMaker",
-      "projectPath": "C:\\workspace\\Tools\\DiaMaker\\DiaMaker.csproj",
+      "projectPath": "c:\\workspace\\Tools\\DiaMaker\\DiaMaker.csproj",
       "packagesPath": "C:\\Users\\peter.klinda\\.nuget\\packages\\",
-      "outputPath": "C:\\workspace\\Tools\\DiaMaker\\obj\\",
+      "outputPath": "c:\\workspace\\Tools\\DiaMaker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
