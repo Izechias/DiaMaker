@@ -13,11 +13,11 @@ namespace DiaMaker.Sql
 
     public Database(string connectionString)
     {
-     _connectionString = connectionString;
-     _sqlConnection = new SqlConnection(_connectionString);
-     _logFilePath = "OdbcLog.txt" ;
-     CreateLog();
-     Connect();
+      _connectionString = connectionString;
+      _sqlConnection = new SqlConnection(_connectionString);
+      _logFilePath = "OdbcLog.txt" ;
+      CreateLog();
+      Connect();
     }
 
     ~Database()
