@@ -1,0 +1,6 @@
+*.targets
+*.cache
+*.props
+*.dll
+*.pdb
+obj/debug
